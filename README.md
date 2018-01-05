@@ -23,6 +23,7 @@ You'll start with:
 ```c++
 main()
 {
+
   // Your code here
 }
 ```
